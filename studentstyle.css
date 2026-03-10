@@ -1,0 +1,22 @@
+body
+{
+font-family:Arial;
+background-color:white;
+margin:0px;}
+header
+{
+background-color:rgb(0, 200, 255);
+text-align:centre;
+padding:15px;
+}
+.content{
+background-color:bisque;
+margin:20px;
+padding:15px;
+border-radius:5px;}
+h2{
+color:#003366;}
+footer{
+background-color:white;
+text-align:centre;
+padding:10px;}
